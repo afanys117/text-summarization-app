@@ -5,7 +5,7 @@ Summarization involves producing a condensed version of a document or article th
 - **Extractive**: Selecting and extracting the most important details directly from the text.
 - **Abstractive**: Generating new text that conveys the essential information in a more concise form.
 
-In this project we will fine-tune the T5 model on a subset of the BillSum dataset [[Link To Dataset](https://huggingface.co/datasets/FiscalNote/billsum)] containing California state bills for abstractive summarization.
+In this project we fine-tuned the T5 model on a subset of the BillSum dataset [[Link To Dataset](https://huggingface.co/datasets/FiscalNote/billsum)] containing California state bills for abstractive summarization.
 
 
 ## Example
